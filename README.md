@@ -1,34 +1,5 @@
-<style>
-.kContainer{
-    display: flex;
-    flex-direction: row; 
-    margin-top: 10px;
-    width: 100%;
-}
-.kItem{
-    flex-grow: 1;
-    flex-basis: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-}
 
-@media only screen and (max-width: 700px) {
-    .kContainer{
-        flex-direction: column; 
-    }
-    .kItem{
-        margin-bottom: 10px;
-    }
-    img{
-        max-width: 400px;
-    }
-}
-
-
-</style>
-
-<h2> Hello there, I'm Toan Tan (Kun) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there, I'm Toan Tan - Kun <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:toantanqn@gmail.com)
 [![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)
@@ -38,22 +9,29 @@
 
 
 
-<div class="kContainer" style="">
-<div class="kItem">
 
-- 🔭 I’m currently student at [Tampere University of Applied Sciences](https://www.tuni.fi/en/about-us/tamk)
+<div style="background-color: red; display: flex; flex-direction: row; flex-wrap: wrap; max-width: 850px;">
+
+<div style="background-color: green; max-width: 350px; flex-shrink: 1; flex-grow: 1;">
+
+- 🔭 I’m currently a Software Engineering student at [Tampere University of Applied Sciences](https://www.tuni.fi/en/about-us/tamk)
 - 🌱 ABC ABC `Deep Learning`
 - 🤔 ABC ABC
 - 💬 Ask me about anything, I am happy to help
 - 🔔 Subcribe me on [Youtube](https://www.youtube.com/channel/abc)
-
-</div>
-<div class="kItem">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true">
-</div>
 </div>
 
+<div style="background-color: yellow; max-width: 400px;  flex-grow: 1;">
+<img  src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true">
+</div>
 
+
+</div>
+
+
+<a href="https://github.com/kunbr0">
+    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
+</a>
 
 
 
@@ -77,9 +55,7 @@
 - Web development (**MERN Stack**)
 </div>
 <div class="kItem">
-    <a href="https://github.com/kunbr0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
-    </a>
+    
 </div>
 </div>
 
