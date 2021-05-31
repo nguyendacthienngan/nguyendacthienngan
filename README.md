@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kunbr0)](https://profile-summary-for-github.com/user/kunbr0)
 
 
-- 🔭 I’m currently a Software Engineering student at [Tampere University of Applied Sciences](https://www.tuni.fi/en/about-us/tamk)
+- 🔭 I’m currently a Software Engineering student at <font color="#7957d5"><a href="https://www.tuni.fi/en/about-us/tamk">Tampere University of Applied Sciences</a></font> []()
 - 🌱 ABC ABC `Deep Learning`
 - 🤔 ABC ABC
 - 💬 Ask me about anything, I am happy to help
@@ -38,10 +38,10 @@
 
 ---
 ### ⚡ Statistics  
-<img  src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true">
+<img  src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true&theme=buefy">
 
 <a href="https://github.com/kunbr0">
-    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
+    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact&theme=buefy" />
 </a>
 
 
@@ -76,9 +76,8 @@
 </table>
 </details>
 
-
-
 ---
 
+<br/><br/>
 <h4 align="center">VISITORS STATS</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{kunbr0}/count.svg"/></p>
