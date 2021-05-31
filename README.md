@@ -10,33 +10,17 @@
 
 
 
-<div style="background-color: red; display: flex; flex-direction: row; flex-wrap: wrap; max-width: 850px;">
-
-<div style="background-color: green; max-width: 350px; flex-shrink: 1; flex-grow: 1;">
-
 - 🔭 I’m currently a Software Engineering student at [Tampere University of Applied Sciences](https://www.tuni.fi/en/about-us/tamk)
 - 🌱 ABC ABC `Deep Learning`
 - 🤔 ABC ABC
 - 💬 Ask me about anything, I am happy to help
 - 🔔 Subcribe me on [Youtube](https://www.youtube.com/channel/abc)
-</div>
-
-<div style="background-color: yellow; max-width: 400px;  flex-grow: 1;">
-<img  src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true">
-</div>
-
-
-</div>
-
-
-<a href="https://github.com/kunbr0">
-    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
-</a>
 
 
 
-<div class="kContainer" style="">
-<div class="kItem">
+
+
+
 
 ### ⚡ Technologies and Skills:  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -53,17 +37,13 @@
 - Web development (**MERN Stack**)
 - Web development (**MERN Stack**)
 - Web development (**MERN Stack**)
-</div>
-<div class="kItem">
-    
-</div>
-</div>
+
+
 
 
 <br/>
 
-<div class="kContainer" style="">
-<div class="kItem">
+
 <details>
 <summary><b>📺 Popular Projects</b> (Click to open)</summary><br/>
 <table>
@@ -91,9 +71,12 @@
 </tbody>
 </table>
 </details>
-</div>
-</div>
 
+<img  src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true">
+
+<a href="https://github.com/kunbr0">
+    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
+</a>
 
 <br/><br/><hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
