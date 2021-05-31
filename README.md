@@ -1,6 +1,10 @@
-
 <h2> Hi there, I'm Toan Tan - Kun <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+
+[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:toantanqn@gmail.com)
+[![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)
+[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/quankun)](https://www.linkedin.com/in/quankun)
+[![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kunbr0)](https://profile-summary-for-github.com/user/kunbr0)
 
 
 - 🔭 I’m currently a Software Engineering student at [Tampere University of Applied Sciences](https://www.tuni.fi/en/about-us/tamk)
@@ -73,16 +77,8 @@
 </details>
 
 
----
-### Connected with me
-
-[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:toantanqn@gmail.com)
-[![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)
-[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/quankun)](https://www.linkedin.com/in/quankun)
-[![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kunbr0)](https://profile-summary-for-github.com/user/kunbr0)
-
 
 ---
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">VISITORS STATS</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{kunbr0}/count.svg"/></p>
