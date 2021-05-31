@@ -39,9 +39,27 @@
 - Web development (**MERN Stack**)
 
 
+---
 
 
-<br/>
+<table>
+<tbody>
+<tr>
+<td>
+<img  src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true">
+</td>
+
+<td>
+<a href="https://github.com/kunbr0">
+    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+---
 
 
 <details>
@@ -49,22 +67,22 @@
 <table>
 <tbody>
 <tr>
-<a href="https://github.com/18520339/pusher-chat-room">
+<a href="https://github.com/kunbr0/kcore_reactjs">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunbr0&repo=kcore_reactjs" />
 </a>
 </tr>
 <tr>
-<a href="https://github.com/18520339/pusher-chat-room">
+<a href="https://github.com/kunbr0/SE102-Super-Mario-Game">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunbr0&repo=SE102-Super-Mario-Game" />
 </a>
 </tr>
 <tr>
-<a href="https://github.com/18520339/pusher-chat-room">
+<a href="https://github.com/kunbr0/CTTEnglish">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunbr0&repo=CTTEnglish" />
 </a>
 </tr>
 <tr>
-<a href="https://github.com/18520339/pusher-chat-room">
+<a href="https://github.com/kunbr0/SE104-Student-Management-Website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunbr0&repo=SE104-Student-Management-Website" />
 </a>
 </tr>
@@ -72,11 +90,15 @@
 </table>
 </details>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true">
 
-<a href="https://github.com/kunbr0">
-    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
-</a>
+
+
+
+
+
+
+
+
 
 <br/><br/><hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
