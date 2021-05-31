@@ -40,23 +40,12 @@
 
 
 ---
-
-
-<table>
-<tbody>
-<tr>
-<td>
+### ⚡ Statistics  
 <img  src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true">
-</td>
 
-<td>
 <a href="https://github.com/kunbr0">
     <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
 </a>
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ---
@@ -93,13 +82,7 @@
 
 
 
+---
 
-
-
-
-
-
-
-<br/><br/><hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{kunbr0}/count.svg"/></p>
