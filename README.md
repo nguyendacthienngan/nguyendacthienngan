@@ -7,11 +7,12 @@
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kunbr0)](https://profile-summary-for-github.com/user/kunbr0)
 
 
-- 🔭 I’m currently a Software Engineering student at <font color="#7957d5"><a href="https://www.tuni.fi/en/about-us/tamk">Tampere University of Applied Sciences</a></font> []()
-- 🌱 ABC ABC `Deep Learning`
-- 🤔 ABC ABC
+
+- 👨‍🎓 I’m currently a `Software Engineering` student at [Tampere University of Applied Sciences](https://www.tuni.fi/en/about-us/tamk)
+- 💻 I have `3 years` study and practice in `Web Development`
+- 🌱 I love learning about Science and Technology
 - 💬 Ask me about anything, I am happy to help
-- 🔔 Subcribe me on [Youtube](https://www.youtube.com/channel/abc)
+
 
 
 
@@ -30,18 +31,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-- Web development (**MERN Stack**)
-- Web development (**MERN Stack**)
-- Web development (**MERN Stack**)
-- Web development (**MERN Stack**)
+- Front-End: **`ReactJS-Redux HTML5 SCSS`**
+- Back-End: **`NodeJS Express JWT Socket.io`**
+- Database: **`MySQL MongoDB`**
+- Others: **`AWS Firebase`**
 
 
 ---
 ### ⚡ Statistics  
-<img  src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true&theme=buefy">
+<img  src="https://github-readme-stats.vercel.app/api?username=kunbr0&show_icons=true">
 
 <a href="https://github.com/kunbr0">
-    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact&theme=buefy" />
+    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
 </a>
 
 
