@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:nguyendacthienngan@gmail.com)
 [![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://www.youtube.com/kunbr0)](https://www.youtube.com/channel/UCXEC-WTkuoPQKcn7pgpDMnQ)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/quankun)](https://www.linkedin.com/in/ng%C3%A2n-nguy%E1%BB%85n-%C4%91%E1%BA%AFc-thi%C3%AAn-4b821b192/)
-[![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kunbr0)](https://github.com/nguyendacthienngan)
+[![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://github.com/nguyendacthienngan)](https://github.com/nguyendacthienngan)
 
 
 
@@ -42,8 +42,8 @@
 ### ⚡ Statistics  
 <img  src="https://github-readme-stats.vercel.app/api?username=nguyendacthienngan&show_icons=true">
 
-<a href="https://github.com/kunbr0">
-    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunbr0&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
+<a href="https://github.com/nguyendacthienngan">
+    <img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendacthienngan&hide=jupyter%20notebook,html&langs_count=7&layout=compact" />
 </a>
 
 
