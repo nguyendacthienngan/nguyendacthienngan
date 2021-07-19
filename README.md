@@ -59,12 +59,6 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendacthienngan&repo=QuanLyNhaHang" />
 </a>
 </tr>
-<tr>
-<a href="https://github.com/nguyendacthienngan/HRManagementServer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendacthienngan&repo=HRManagementServer" />
-</a>
-</tr>
-<tr>
 <a href="https://github.com/nguyendacthienngan/RecruitmentManagementApp">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendacthienngan&repo=RecruitmentManagementApp" />
 </a>
@@ -74,6 +68,12 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendacthienngan&repo=HotelManagementWeb" />
 </a>
 </tr>
+<tr>
+<a href="https://github.com/nguyendacthienngan/SharingVideoWeb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendacthienngan&repo=SharingVideoWeb" />
+</a>
+</tr>
+<tr>
 </tbody>
 </table>
 </details>
